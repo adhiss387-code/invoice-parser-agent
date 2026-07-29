@@ -1,0 +1,26 @@
+INVOICE
+======================================
+Invoice Number: INV-98724
+Date: 2026-07-28
+Due Date: 2026-08-28
+======================================
+VENDOR DETAILS:
+Global Tech Solutions Ltd.
+123 Cloud Avenue, Tech City
+Email: billing@globaltech.com
+======================================
+BILL TO:
+Acme Corporation
+456 Enterprise Way, Suite 100
+======================================
+ITEMS:
+1. Cloud Server Hosting - 1 Month: $800.00
+2. Database Backup Service - 1 Month: $150.00
+3. IT Consulting Hours - 5 Hours @ $100/hr: $500.00
+======================================
+FINANCIAL SUMMARY:
+Subtotal: $1450.00
+Tax (GST 18%): $261.00
+Total Due: $1711.00
+======================================
+Thank you for your business!

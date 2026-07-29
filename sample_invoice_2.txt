@@ -1,0 +1,19 @@
+INVOICE DETAIL
+--------------------------------------
+Inv No: INV-2026-B99
+Date of Issue: 2026-07-28
+--------------------------------------
+FROM:
+Starlight Consultancy Services
+Mumbai, India
+--------------------------------------
+BILL TO:
+Acme Corp
+--------------------------------------
+Services Rendered:
+* Accounting System Audit: $1,200.00
+* Excel Spreadsheet Automation: $400.00
+--------------------------------------
+Total Amount Due: $1600.00
+--------------------------------------
+Payment terms: Net 30
